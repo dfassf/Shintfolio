@@ -1,1 +1,3 @@
 README
+*.pem
+node_modules
